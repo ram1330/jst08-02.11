@@ -1,0 +1,7 @@
+*{
+  font-family: sans-serif;
+}
+.add {
+  display: flex;
+  gap: 40px;
+}
